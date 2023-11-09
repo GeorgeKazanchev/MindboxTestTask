@@ -1,0 +1,12 @@
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net7.0\ShapeAreaCalculator.deps.json
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net7.0\ShapeAreaCalculator.dll
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net7.0\ShapeAreaCalculator.pdb
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.AssemblyInfo.cs
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.dll
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\refint\ShapeAreaCalculator.dll
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ShapeAreaCalculator.pdb
+C:\Users\George\source\repos\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net7.0\ref\ShapeAreaCalculator.dll
